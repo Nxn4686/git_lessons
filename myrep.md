@@ -55,12 +55,6 @@ For more information, see the [30 команд для Git](https://habr.com/ru/c
 
 ## Работа с таблицами
 
-| Col 1         |     Col 2     | Col 3 |
-| ------------- | :-----------: | ----: |
-| col 3 is      | right-aligned |  true |
-| col 2 is      |   centered    |  true |
-| zebra stripes |   are neat    |  yeah |
-
 ## Цытаты
 
 > И создал нас Бог по образу и подобию своему (ц) Бог
