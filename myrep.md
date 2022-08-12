@@ -11,7 +11,7 @@
 - git checkout master - вернуться к актуальному состоянию и продолжить работу
 - git diff - увидеть разницу между текущим файлом и закоммиченным файлом
 - git checkout -b branch_name - создать новую ветку с переходом на нее
-- git checkout -d branch_name - удаляет ветку
+- git branch -d branch_name - удаляет ветку
 - rm <file_name> - удаляет созданный файл
 
 **Команды GitHub**
@@ -47,7 +47,7 @@
 ## Работа с изображениями
 
 Чтобы вставить изображение в текст достаточно написать следующее:
-![from cat whith love!](cat-kiss.gif)
+![from cat wgit ith love!](cat-kiss.gif)
 
 ## Ссылки
 
