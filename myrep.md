@@ -47,7 +47,7 @@
 ## Работа с изображениями
 
 Чтобы вставить изображение в текст достаточно написать следующее:
-![from cat wgit ith love!](cat-kiss.gif)
+![from cat with love!](cat-kiss.gif)
 
 ## Ссылки
 
